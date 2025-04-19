@@ -4,6 +4,7 @@ copy files of ubuntu20.iso and winscp.exe to localdisk<br />
 now open virtual box and delete the existing the instance<br />
 click new and choose the ubuntu20.iso , create username and password<br />
 ok<br />
+
 now go to settings <br />
 -> general-> advanced-> shared documents - bidirectional<br />
                       -> Drag n drop - bidirectional<br />
